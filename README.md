@@ -72,10 +72,11 @@ A feature-rich Discord music bot built with **discord.js v14** and **Lavalink v4
    CLIENT_ID=your_application_client_id
    DEV_GUILD_ID=your_test_server_id
 
-   LAVALINK_HOST=your_lavalink_host
-   LAVALINK_PORT=443
-   LAVALINK_PASSWORD=your_password
-   LAVALINK_SECURE=true
+LAVALINK_HOST=lavalink-v4.triniumhost.com
+LAVALINK_PORT=443
+LAVALINK_PASSWORD=free
+LAVALINK_SECURE=true
+
    ```
 
 4. **Deploy slash commands**
