@@ -55,8 +55,8 @@ A feature-rich Discord music bot built with **discord.js v14** and **Lavalink v4
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/xyz-core-music-bot.git
-   cd xyz-core-music-bot
+   git clone https://github.com/xyz1l/MusicBot.git
+   cd musicbot_xyz
    ```
 
 2. **Install dependencies**
@@ -147,7 +147,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 <div align="center">
 
-### Made with ❤️ by xyz
+### Made by xyz
 
 [![Discord](https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vz7d6TsN2H)
 
